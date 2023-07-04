@@ -1,0 +1,2 @@
+# .codemeta
+BAM CodeMeta Guidelines
